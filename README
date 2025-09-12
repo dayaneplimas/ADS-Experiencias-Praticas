@@ -1,58 +1,14 @@
-# 📊 Análise de Mercado e Plano de Desenvolvimento – Desenvolvedor Full Stack Júnior
+# 📚 Análise e Desenvolvimento de Sistemas
 
-Este repositório documenta uma pesquisa aplicada sobre o mercado de trabalho para **Desenvolvedores Full Stack Júnior no Brasil**, aliada a um **plano de ação prático** para desenvolvimento de competências alinhadas às exigências atuais do setor.
+Repositório criado para armazenar meus trabalhos, projetos, relatórios e anotações desenvolvidos ao longo do curso de **Análise e Desenvolvimento de Sistemas**.
 
----
+Aqui você encontrará materiais relacionados a disciplinas como:
 
-## 🎯 Objetivo
+- Programação
+- Banco de Dados
+- Desenvolvimento Web
+- Inteligência Artificial
+- Ética e Tecnologia
+- Engenharia de Software
 
-- Analisar vagas reais no mercado de TI para entender o perfil técnico e comportamental mais demandado.
-- Identificar **tecnologias em destaque**, **soft skills recorrentes** e **tendências emergentes**.
-- Conectar a análise com um **plano de desenvolvimento profissional de 6 meses**, com foco em empregabilidade.
-
----
-
-## 🔍 Escopo da Análise
-
-- 🔎 **10 vagas reais** coletadas de diferentes localidades do Brasil (RJ, MG, PR, remoto).
-- 💼 Foco em cargos de **Desenvolvedor Full Stack Júnior**.
-- 📑 Avaliação de: **hard skills, soft skills, localização e faixa salarial**.
-- 📈 Levantamento de **tendências do mercado de tecnologia** para profissionais iniciantes.
-
----
-
-## 🧠 Principais Conclusões
-
-### ✅ Hard Skills mais exigidas
-- **Java**, **HTML/CSS**, **SQL/MySQL**, **Node.js**, **React.js**
-- **Cloud Computing**: AWS e Azure aparecem em vagas com salários mais altos
-- Primeiros sinais de exigência em **IA/ML (Inteligência Artificial e Machine Learning)**
-
-### ✅ Soft Skills mais recorrentes
-- **Aprendizado rápido**
-- **Perfil analítico**
-- **Proatividade**
-- **Colaboração ativa**
-
-### ✅ Tendências observadas
-- Crescente adoção de **stacks modernos (JavaScript full stack)**  
-- **Experiência em nuvem** começa a se tornar diferencial competitivo mesmo no nível júnior  
-- **Vagas remotas** estão mais exigentes, porém com **salários superiores**  
-- Valorização crescente de **profissionais adaptáveis e autônomos**
-
----
-
-## 🛠 Plano de Ação (6 meses)
-
-Com base na análise, foram definidas 3 competências prioritárias para desenvolvimento entre **Setembro 2025 e Fevereiro 2026**:
-
-| Competência             | Tipo       | Estratégia de Desenvolvimento                        |
-|-------------------------|------------|------------------------------------------------------|
-| **Node.js**             | Hard Skill | Curso + projeto prático com API REST                |
-| **SQL / MySQL**         | Hard Skill | Curso + integração com banco de dados em projeto    |
-| **Aprendizado Rápido**  | Soft Skill | Estudo contínuo, prática ativa e revisão mensal     |
-
----
-
-## 📁 Estrutura do Repositório
-
+O conteúdo será atualizado conforme o andamento do curso.
